@@ -2,7 +2,7 @@
 Лабораторная работа №6
 
 
-1. Создание аккаунт на сайте GitHub.
+1. Создание аккаунта на сайте GitHub.
 
   ![image](https://github.com/user-attachments/assets/9a9523d7-9432-4ac5-b11d-0639da21a382)
 
@@ -24,7 +24,7 @@
 
 6. Добавление файла через интерфейс GitHub. Подтягивание изменений в локальный репозиторий.
  
-   ![image](https://github.com/user-attachments/assets/88383b4b-6387-4faa-8659-57af2e5ed8df)
+   ![image](https://github.com/user-attachments/assets/d1fa94ed-d444-431e-b5e9-ddb586c6db72)
 
 7. Получение истории операций для каждой из веток.
 
