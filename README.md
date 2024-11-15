@@ -44,13 +44,13 @@
    ![image](https://github.com/user-attachments/assets/624185eb-7e75-4e41-9bbc-35787c23f216)
    ![image](https://github.com/user-attachments/assets/78a828af-7ecc-4b71-bad4-80183df60b57)
    
-**11. Удаление побочной ветки после успешного слияния.**
-  
-  ![image](https://github.com/user-attachments/assets/0bbc5cc1-3934-47af-bbea-602fe47b0b9e)
-
-**12. Изменение и фиксирование их, оставляя комментарии, несколько раз.**
+**11. Изменение и фиксирование их, оставляя комментарии, несколько раз.**
  
    ![image](https://github.com/user-attachments/assets/badded73-c089-4d59-be20-2c421f832122)
+   
+**12. Удаление побочной ветки после успешного слияния.**
+
+![image](https://github.com/user-attachments/assets/36fb0216-cf0b-4105-a06e-5dd88dfe16fb)
 
 **13. Откат коммита.**
   
